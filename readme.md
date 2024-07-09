@@ -318,6 +318,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Virgil](https://github.com/titzer/virgil) - Fast and lightweight native programming language designed for fast, dependency-free programs. ([Lobsters](https://lobste.rs/s/lisdkp/virgil_fast_lightweight_native))
 - [vizh](https://github.com/TartanLlama/vizh) - Esoteric visual language that takes image files as input based on a multi-tape turing machine, designed for compatibility with C.
 - [Volt](https://github.com/VoltLang/Volta) - Systems level programming language written in D.
+- [Wa](https://github.com/wa-lang/wa) - Wa(sm)(wa-lang/凹语言) language, design for WebAssembly.
 - [Wasp](https://github.com/wasp-lang/wasp) - Web Application Specification Language. Extensible DSL (domain-specific language) for building modern web apps with less code. ([Web](https://wasp-lang.dev/)) ([HN](https://news.ycombinator.com/item?id=26091956))
 - [wax](https://github.com/LingDong-/wax) - Tiny language that transpiles to C, Java and TypeScript. ([Web](https://waxc.netlify.app/))
 - [wenyan](https://wy-lang.org/) - Esoteric programming language that closely follows the grammar and tone of classical Chinese literature.
