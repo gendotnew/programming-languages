@@ -289,6 +289,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Rune](https://github.com/rune-rs/rune/) - Embeddable dynamic programming language for Rust. ([Docs](https://rune-rs.github.io/rune/)) ([Lobsters](https://lobste.rs/s/9duro8/rune_programming_language))
 - [Rust](https://www.rust-lang.org/) - Multi-paradigm, high-level, general-purpose programming language designed for performance and safety, especially safe concurrency.
 - [Scale](https://github.com/StonkDragon/Scale) - Open Source stack-based concatenative programming language.
+- [SEMAPRAX](https://github.com/wavect/semaprax) - Experimental agent-native systems language built around stable semantic identity and bounded native and WebAssembly compiler lanes; see the [official website](https://wavect.io/semaprax/).
 - [Self](https://selflanguage.org/) - Prototype-based dynamic object-oriented programming language, environment, and virtual machine. ([Code](https://github.com/russellallen/self))
 - [Shattuck](https://github.com/whoiscc/shattuck) - Rust-based script programming language.
 - [Shen/C](https://github.com/otabat/shen-c) - C port of the Shen programming language.
