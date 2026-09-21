@@ -186,6 +186,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Dora](https://github.com/dinfuehr/dora) - JIT-compiler for the programming language Dora implemented in Rust.
 - [Egison](https://www.egison.org/) - Programming language that features extensible efficient non-linear pattern matching with backtracking for non-free data types. ([Code](https://github.com/egison/egison))
 - [Ein](https://github.com/ein-lang/ein) - Functional programming language for scalable development.
+- [Externum](https://github.com/BartoszOsiej/externum) - Self-hosted, statically typed language that compiles to readable Python, Bash and CPython bytecode, using runtimes that already exist everywhere as backends. ([Web](https://bartoszosiej.github.io/externum/))
 - [Ella](https://github.com/lukechu10/ellalang) - Computer programming language interpreter written in Rust.
 - [Elsa](https://github.com/elsaland/elsa) - Minimal, fast and secure QuickJS wrapper written in Go. ([HN](https://news.ycombinator.com/item?id=24626655))
 - [Emojicode](https://www.emojicode.org/) - Open-source, full-blown programming language consisting of emojis. ([Code](https://github.com/emojicode/emojicode))
