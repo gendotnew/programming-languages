@@ -138,6 +138,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [ArnoldC](https://github.com/lhartikk/ArnoldC) - Programming language based on the one-liners of Arnold Schwarzenegger.
 - [C-plus-Equality](https://github.com/ErisBlastar/cplusequality) - Feminist programming language.
 - [dogescript](https://github.com/dogescript/dogescript) - Wow so syntax very doge much future.
+- [SlowLang](https://github.com/sebin-gg/slowlang) - Enforces a ~30 WPM typing cap; fast typists get an angry ASCII turtle, lockouts, and haiku error messages.
 
 ## Other
 
